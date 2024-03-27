@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\bin\Debug\net8.0\task(holiday).exe
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\bin\Debug\net8.0\task(holiday).deps.json
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\bin\Debug\net8.0\task(holiday).runtimeconfig.json
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\bin\Debug\net8.0\task(holiday).dll
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\bin\Debug\net8.0\task(holiday).pdb
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).AssemblyInfo.cs
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).dll
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\refint\task(holiday).dll
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).pdb
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\task(holiday).genruntimeconfig.cache
+C:\Users\User\Desktop\task(holiday)\task(holiday)\task(holiday)\obj\Debug\net8.0\ref\task(holiday).dll
